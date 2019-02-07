@@ -1,6 +1,6 @@
 # nginx-group-chat-frontend
 
-- Build version of group cht application.
+- Build version of group chat application.
 
 - Build version generated using
 ```bash
